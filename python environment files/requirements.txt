@@ -186,7 +186,7 @@ tzdata==2022.7
 urllib3==1.26.11
 wcwidth==0.2.5
 webencodings==0.5.1
-Werkzeug==2.2.1
+Werkzeug==3.1.4
 widgetsnbextension==3.6.1
 winshell==0.6
 wrapt==1.14.1
